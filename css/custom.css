@@ -13,11 +13,10 @@ body{font-family: 'Source Code Pro', monospace;background-color: #232931;}
 }
 #json-text{
   margin-top: 10em;
-  margin-bottom: 10em;  
+  margin-bottom: 10em;
+  font-size: 1em;  
 }
-.atejeda{
-  margin: 0;
-}
+.margin-default{margin: 0;}
 .json{
   margin-left: 1.5em;
   margin-bottom: 0;
