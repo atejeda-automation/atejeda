@@ -7,6 +7,9 @@ body{font-family: 'Source Code Pro', monospace;background-color: #232931;}
 .at-azul{color: #93deff;}
 .at-blanco{color: #f7f7f7;}
 
+/* Margin 0 */
+.margin-default{margin: 0;}
+
 #intro{
   background-color: #232931;
   height: 100%;
@@ -16,7 +19,6 @@ body{font-family: 'Source Code Pro', monospace;background-color: #232931;}
   margin-bottom: 10em;
   font-size: 1em;  
 }
-.margin-default{margin: 0;}
 .json{
   margin-left: 1.5em;
   margin-bottom: 0;
