@@ -1,0 +1,28 @@
+body{font-family: 'Source Code Pro', monospace;background-color: #232931;}
+
+/* Colores personalizados */
+.at-azul-gris{color: #232931;}
+.at-gris{color:#393e46;}
+.at-verde{color: #4ecca3;}
+.at-azul{color: #93deff;}
+.at-blanco{color: #f7f7f7;}
+
+#intro{
+  background-color: #232931;
+  height: 100%;
+}
+#json-text{
+  margin-top: 10em;
+  margin-bottom: 10em;  
+}
+.atejeda{
+  margin: 0;
+}
+.json{
+  margin-left: 1.5em;
+  margin-bottom: 0;
+}
+.json2{
+  margin-left: 3em;
+  margin-bottom: 0;
+}
